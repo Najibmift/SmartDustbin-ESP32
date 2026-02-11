@@ -26,8 +26,6 @@ Project ini merupakan implementasi sistem tertanam (Embedded System) yang mengin
 - Servo Motor
 - LCD I2C 20x2
 - Jumper Wires
-- Power Supply
-
 ---
 
 ## 💻 Software & Libraries
